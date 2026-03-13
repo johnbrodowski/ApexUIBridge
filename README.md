@@ -832,9 +832,6 @@ Two separate registries track live elements:
 
 ---
 
-## License
-
-**ApexUIBridge** is released under the [MIT License](LICENSE.txt).
 Copyright (c) 2026 John Brodowski.
 
 The embedded FlaUI projects (`FlaUI.Core`, `FlaUI.UIA2`, `FlaUI.UIA3`) and `LLamaSharp`
